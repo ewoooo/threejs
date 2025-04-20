@@ -1,0 +1,8 @@
+Model Information:
+* title:	Kia Stonic
+* source:	https://sketchfab.com/3d-models/kia-stonic-886d95ac4c2b40f2bb7725c2ba426acd
+* author:	KOElkastasbers (https://sketchfab.com/koelkastasbers)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
